@@ -1,14 +1,14 @@
 [![Header](https://github.com/nipun0307/NipunM/blob/612fa4385903ca9a878a65f8c2f1ecc781385862/Artboard%201.png "Header")](https://www.linkedin.com/in/mahajan-nipun/)
 
-## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Get To Know Me 🙂
+## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Get To Know Me 
 - 👨🏻‍🎓 IIT Gandhinagar, CSE'19
-- 🧑🏻‍💻 Interested in Data Visualisation 📊
+- 📊 Interested in Data Visualisation 
 - 🎯 Goals for this year:
   - Be Better at Development ✨
   - Data Science Projects 📚
-  - ⬆️GitHub 🧐
+  - GitHub Activity 🧐
 
-## 💜 Favourite Tools 🛠
+## 🛠 Favourite Tools 
 <p align="center"> 
 <a href=""><img height="40" src="icons/c.png"></a>&nbsp;&nbsp;
 <a href=""><img height="40" src="icons/c++.png"></a>&nbsp;&nbsp;
@@ -24,7 +24,7 @@
 <!-- <a href=""><img height="40" src="icons/css.png"></a>&nbsp;&nbsp; -->
 </p>
 
-## 💡Love a Good Collab💜
+## 💡Love a Good Collab
 Have an idea you are excited about? Hit me up!
 
 <p align="center"> 
@@ -39,8 +39,8 @@ I am quite passionate about realistic visual arts <a href=""><img height="33" sr
   <a href=""><img height="33" src="icons/butterfly_e.png"></a>&nbsp;&nbsp;
 
 
-## 🤓 Stats
+<!-- ## 🤓 Stats
 
 ![Nipun's GitHub stats](https://github-readme-stats.vercel.app/api?username=nipun0307)
-![languages](https://github-readme-stats.vercel.app/api/top-langs?username=frank-chris&show_icons=true&locale=en)
+![languages](https://github-readme-stats.vercel.app/api/top-langs?username=frank-chris&show_icons=true&locale=en) -->
 <!-- ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nipun0307&repo=NipunM) -->
