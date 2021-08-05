@@ -25,7 +25,7 @@
 </p>
 
 ## 💡Love a Good Collab💜
-Hit me up!
+Have an idea you are excited about? Hit me up!
 
 <p align="center"> 
 <a href="mailto:mahajan.n@iitgn.ac.in"><img height="40" src="icons/gmail.png"></a>&nbsp;&nbsp;
@@ -34,12 +34,10 @@ Hit me up!
 </p>
 
 ## 🧋Other Interests 😃
-I am quite passionate about realistic visual arts
-<p align="center"> 
-<a href=""><img height="43" src="icons/butterfly_e.png"></a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/nipun.art/"><img height="42" src="icons/insta.svg"></a>&nbsp;&nbsp;
-  <a href=""><img height="43" src="icons/butterfly_e.png"></a>&nbsp;&nbsp;
-</p>
+I am quite passionate about realistic visual arts <a href=""><img height="33" src="icons/butterfly_e.png"></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/nipun.art/"><img height="32" src="icons/insta.svg"></a>&nbsp;&nbsp;
+  <a href=""><img height="33" src="icons/butterfly_e.png"></a>&nbsp;&nbsp;
+
 
 ## 🤓 Stats
 
