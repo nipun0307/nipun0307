@@ -39,8 +39,8 @@ I am quite passionate about realistic visual arts <a href=""><img height="33" sr
   <a href=""><img height="33" src="icons/butterfly_e.png"></a>&nbsp;&nbsp;
 
 
-<!-- ## 🤓 Stats
+## 🤓 Stats
 
-![Nipun's GitHub stats](https://github-readme-stats.vercel.app/api?username=nipun0307)
-![languages](https://github-readme-stats.vercel.app/api/top-langs?username=frank-chris&show_icons=true&locale=en) -->
+<!-- ![Nipun's GitHub stats](https://github-readme-stats.vercel.app/api?username=nipun0307) -->
+![languages](https://github-readme-stats.vercel.app/api/top-langs?username=nipun0307&show_icons=true&locale=en) 
 <!-- ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nipun0307&repo=NipunM) -->
