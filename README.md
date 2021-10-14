@@ -13,6 +13,8 @@
 <a href=""><img height="40" src="icons/c.png"></a>&nbsp;&nbsp;
 <a href=""><img height="40" src="icons/c++.png"></a>&nbsp;&nbsp;
 <a href=""><img height="40" src="icons/python.png"></a>&nbsp;&nbsp;
+  <a href=""><img height="40" src="icons/html.png"></a>&nbsp;&nbsp;
+<a href=""><img height="40" src="icons/css.png"></a>&nbsp;&nbsp;
  <a href=""><img height="40" src="icons/js.png"></a>&nbsp;&nbsp;
 <a href=""><img height="40" src="icons/tf.png"></a>&nbsp;&nbsp;
 <!-- <a href=""><img height="40" src="icons/pytorch.png"></a>&nbsp;&nbsp; -->
@@ -20,8 +22,7 @@
 <!-- <a href=""><img height="40" src="icons/flask.png"></a>&nbsp;&nbsp;
 <a href=""><img height="40" src="icons/dart.png"></a>&nbsp;&nbsp;
 <a href=""><img height="40" src="icons/flutter.png"></a>&nbsp;&nbsp; -->
-<!-- <a href=""><img height="40" src="icons/html.png"></a>&nbsp;&nbsp; -->
-<!-- <a href=""><img height="40" src="icons/css.png"></a>&nbsp;&nbsp; -->
+
 </p>
 
 ## 💡Love a Good Collab
